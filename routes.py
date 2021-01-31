@@ -6,3 +6,7 @@ from flask import current_app as app
 @app.route('/', methods=['GET'])
 def get_all_cdrs():
     return render_template('index.html')
+
+@app.route('/about', methods=['GET'])
+def get_about_page():
+    return render_template('about.html')
