@@ -1,5 +1,9 @@
-### **HOW TO START**
-- Open cmd in the project location.
-- run the following command. `python app.py`
+### Multi module application: Angular in Python (flask).
 
-- https://scotch.io/tutorials/getting-started-with-flask-a-python-microframework
+## Steps to run app - 1
+	- Build angular app ** npm build ** or ** npm build --prod **
+	- Run Flask app ** python app.python **
+## Steps to run app - 2
+	- Invoke the bat files.
+	
+** Client code - https://github.com/ItsAncientCoder/employee-pay-wc/tree/master/dynamic-tab-angular **

@@ -1,1 +1,1 @@
-python app.py
+C:\Users\BANDHAM\flask_virenv\Scripts\activate && python fix_index_html.py && python app.py
